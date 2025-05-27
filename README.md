@@ -1,8 +1,8 @@
 # NGS_to_sgRNA_R
 
 R scripts to:
-Quality filter Illumina NGS sequencing reads and trim / merge paired-end reads.
-Map NGS sequencing reads to an sgRNA library.
+- Quality filter Illumina NGS sequencing reads and trim / merge paired-end reads.
+- Map NGS sequencing reads to an sgRNA library.
 
 
 This script helps to:
