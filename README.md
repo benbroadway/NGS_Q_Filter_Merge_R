@@ -1,11 +1,15 @@
 # NGS_Q_Filter_Merge_R
-R script to quality filter Illumina NGS sequencing reads and then trim and merge paired-end reads.
+R scripts to:
+Quality filter Illumina NGS sequencing reads and trim / merge paired-end reads.
+Map NGS sequencing reads to an sgRNA library.
+
 
 This script helps to:
 
 - Visualize read quality.
 - Remove poor-quality sequences.
 - Generate cleaned FASTQ files for further processing.
+- Map NGS sequencing reads to specific sgRNAs.
 
 ## Dependencies
 
